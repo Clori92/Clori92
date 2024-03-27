@@ -2,7 +2,7 @@
 
 ![Gamer Pusheen](https://i.ibb.co/2M1gGfJ/pusheen.jpg)
 
-- 🌱 I’m currently learning **Web Development** with CoGrammar!
+- 🌱 I’m currently learning **Web Development** with HyperionDev!
 - 💬 Ask me about anything regarding **Japan**!
 - 📫 **How to reach me:** https://www.linkedin.com/in/carlotta-riccardi-238b091b7/
 - 😄 **Pronouns:** Her/She
